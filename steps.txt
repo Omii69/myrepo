@@ -1,3 +1,5 @@
+	STEPS
+
 1. Github Acc
 2. empty repo
 3. local system 
