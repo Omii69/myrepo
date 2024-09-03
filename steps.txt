@@ -1,0 +1,10 @@
+1. Github Acc
+2. empty repo
+3. local system 
+	git config --global user.name "username"
+	git config --global user.email "email"
+4. git push -u origin master
+	---error
+	4.1 username
+	4.2 password (gen token) (tick everything)
+5. $ git remote add origin https://github.com/OmkarLande69/myrepo.git
