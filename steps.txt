@@ -7,5 +7,9 @@
 	---error
 	4.1 username
 	4.2 password (gen token) (tick everything)
+<<<<<<< Updated upstream
 5. $ git remote add origin https://github.com/OmkarLande69/myrepo.git
 6. End
+=======
+5. $ git remote add origin https://github.com/OmkarLande69/myrepo.git
+>>>>>>> Stashed changes
