@@ -1,5 +1,3 @@
-~STEPS
-
 1. Github Acc
 2. empty repo
 3. local system 
@@ -10,3 +8,4 @@
 	4.1 username
 	4.2 password (gen token) (tick everything)
 5. $ git remote add origin https://github.com/OmkarLande69/myrepo.git
+6. End
